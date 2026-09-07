@@ -2,13 +2,13 @@
 title: esx_menu_dialog
 description: esx_menu_dialog provides an input dialog used by ESX Legacy resources.
 published: true
-date: 2026-09-07T23:34:51.978Z
-tags: esx, script, ui, input
+date: 2026-09-07T23:39:45.192Z
+tags: esx, input, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:51.978Z
 ---
 
-# esx_menu_dialog
+# esx_menu_dialog [![](https://badges.5metrics.dev/esx_menu_dialog/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_menu_dialog)
 
 `esx_menu_dialog` provides an input dialog used by ESX Legacy resources.
 
