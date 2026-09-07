@@ -2,13 +2,13 @@
 title: ND_Jailing
 description: ND_Jailing provides player jailing functionality for ND Framework.
 published: true
-date: 2026-09-07T18:42:09.038Z
-tags: nd, police, script, jailing
+date: 2026-09-07T18:53:08.853Z
+tags: jailing, nd, police, script
 editor: markdown
 dateCreated: 2026-09-07T18:42:07.072Z
 ---
 
-# ND_Jailing
+# ND_Jailing [![](https://badges.5metrics.dev/ND_Jailing/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Jailing)
 
 ND_Jailing provides player jailing functionality for ND Framework.
 
