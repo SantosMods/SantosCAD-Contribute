@@ -2,13 +2,13 @@
 title: ND_Players
 description: ND_Players provides multi-character selection for ND Core.
 published: true
-date: 2026-09-07T18:41:23.819Z
-tags: nd, script, multicharacter, characters
+date: 2026-09-07T18:50:15.623Z
+tags: characters, multicharacter, nd, script
 editor: markdown
 dateCreated: 2026-09-07T18:41:21.997Z
 ---
 
-# ND_Players
+# ND_Players [![](https://badges.5metrics.dev/ND_Players/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Players)
 
 ND_Players provides multi-character selection for ND Core.
 
