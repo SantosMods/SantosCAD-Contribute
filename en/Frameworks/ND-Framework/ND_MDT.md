@@ -2,13 +2,13 @@
 title: ND_MDT
 description: ND_MDT is a police mobile data terminal for ND_Core.
 published: true
-date: 2026-09-07T06:23:02.965Z
-tags: nd, police, script, mdt
+date: 2026-09-07T18:51:07.139Z
+tags: mdt, nd, police, script
 editor: markdown
 dateCreated: 2026-09-07T06:23:01.248Z
 ---
 
-# ND_MDT
+# ND_MDT [![](https://badges.5metrics.dev/ND_MDT/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_MDT)
 
 ND_MDT is a police mobile data terminal for ND_Core.
 
