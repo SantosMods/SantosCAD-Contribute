@@ -2,13 +2,13 @@
 title: ox_doorlock
 description: A door management resource that can be used standalone or alongside ox_core, qbx_core, and es_extended.
 published: true
-date: 2026-09-07T06:09:50.890Z
-tags: free, overextended, script, doorlock
+date: 2026-09-07T19:05:53.688Z
+tags: doorlock, free, overextended, script
 editor: markdown
 dateCreated: 2026-09-07T05:01:07.714Z
 ---
 
-# ox_doorlock
+# ox_doorlock [![](https://badges.5metrics.dev/ox_doorlock/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_doorlock)
 
 A FiveM door management resource that can run standalone or alongside supported frameworks.
 
