@@ -2,13 +2,13 @@
 title: esx_skin
 description: esx_skin provides character appearance customization and skin saving for ESX Legacy.
 published: true
-date: 2026-09-07T23:43:04.901Z
-tags: characters, esx, script, appearance
+date: 2026-09-07T23:44:30.840Z
+tags: appearance, characters, esx, script
 editor: markdown
 dateCreated: 2026-09-07T23:43:04.901Z
 ---
 
-# esx_skin
+# esx_skin [![](https://badges.5metrics.dev/esx_skin/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_skin)
 
 `esx_skin` provides character appearance customization and skin saving for ESX Legacy.
 
