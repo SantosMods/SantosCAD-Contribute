@@ -2,13 +2,13 @@
 title: esx_notify
 description: esx_notify provides the notification system used by ESX resources.
 published: true
-date: 2026-09-07T23:41:35.633Z
-tags: esx, script, ui, notifications
+date: 2026-09-07T23:44:04.527Z
+tags: esx, notifications, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:41:35.633Z
 ---
 
-# esx_notify
+# esx_notify [![](https://badges.5metrics.dev/esx_notify/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_notify)
 
 `esx_notify` provides the notification system used by ESX resources.
 
