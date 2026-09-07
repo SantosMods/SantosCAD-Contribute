@@ -2,13 +2,13 @@
 title: ND_Core
 description: ND_Core is the core resource for ND Framework.
 published: true
-date: 2026-09-07T06:19:08.568Z
-tags: developer-tool, framework, nd, core
+date: 2026-09-07T18:48:55.567Z
+tags: core, developer-tool, framework, nd
 editor: markdown
 dateCreated: 2026-09-07T06:19:06.707Z
 ---
 
-# ND_Core
+# ND_Core [![](https://badges.5metrics.dev/ND_Core/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Core)
 
 ND_Core is the core resource for ND Framework.
 
