@@ -2,13 +2,13 @@
 title: ND_Police
 description: ND_Police provides police job systems and law enforcement tools for FiveM.
 published: true
-date: 2026-09-07T06:20:29.934Z
-tags: nd, script, police, jobs
+date: 2026-09-07T18:48:29.688Z
+tags: jobs, nd, police, script
 editor: markdown
 dateCreated: 2026-09-07T06:20:28.383Z
 ---
 
-# ND_Police
+# ND_Police [![](https://badges.5metrics.dev/ND_Police/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Police)
 
 ND_Police provides police job systems and law enforcement tools for FiveM.
 
