@@ -2,13 +2,13 @@
 title: esx_context
 description: esx_context provides the context menu system used by es_extended.
 published: true
-date: 2026-09-07T23:31:34.639Z
-tags: esx, script, ui, menus
+date: 2026-09-07T23:38:36.545Z
+tags: esx, menus, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:31:34.639Z
 ---
 
-# esx_context
+# esx_context [![](https://badges.5metrics.dev/esx_context/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_context)
 
 `esx_context` provides the context menu system used by `es_extended`.
 
