@@ -2,13 +2,13 @@
 title: ox_lib
 description: A standalone library for providing easily reusable code as importable modules and exports.
 published: true
-date: 2026-09-07T06:08:34.530Z
-tags: library, developer-tool, free, overextended
+date: 2026-09-07T19:08:38.397Z
+tags: developer-tool, free, library, overextended
 editor: markdown
 dateCreated: 2026-09-07T04:12:41.850Z
 ---
 
-# ox_lib
+# ox_lib [![](https://badges.5metrics.dev/ox_lib/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_lib)
 
 A standalone FiveM library providing reusable modules, exports, utilities, and interface components for Lua and JavaScript resources.
 
