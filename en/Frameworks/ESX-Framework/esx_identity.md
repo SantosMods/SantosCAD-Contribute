@@ -2,13 +2,13 @@
 title: esx_identity
 description: esx_identity handles identity registration for ESX characters.
 published: true
-date: 2026-09-07T23:32:58.420Z
-tags: characters, esx, script, identity, '
+date: 2026-09-07T23:39:14.192Z
+tags: ', characters, esx, identity, script
 editor: markdown
 dateCreated: 2026-09-07T23:32:58.420Z
 ---
 
-# esx_identity
+# esx_identity [![](https://badges.5metrics.dev/esx_identity/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_identity)
 
 `esx_identity` handles identity registration for ESX characters.
 
