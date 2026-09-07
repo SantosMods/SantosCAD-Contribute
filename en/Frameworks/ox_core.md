@@ -2,13 +2,13 @@
 title: ox_core
 description: A modern FiveM framework, designed to properly support features like OneSync, statebags, and server-side entities.
 published: true
-date: 2026-09-07T06:11:40.416Z
-tags: free, overextended, framework, roleplay
+date: 2026-09-07T19:09:39.764Z
+tags: framework, free, overextended, roleplay
 editor: markdown
 dateCreated: 2026-09-07T04:57:04.536Z
 ---
 
-# ox_core
+# ox_core [![](https://badges.5metrics.dev/ox_core/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_core)
 
 A FiveM framework for player and vehicle management designed around features including OneSync, statebags, and server-side entities.
 
