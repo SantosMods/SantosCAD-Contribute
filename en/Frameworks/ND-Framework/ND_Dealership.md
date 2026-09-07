@@ -2,13 +2,13 @@
 title: ND_Dealership
 description: ND_Dealership provides vehicle dealerships for ND Framework.
 published: true
-date: 2026-09-07T18:43:04.429Z
-tags: nd, script, vehicles, dealership
+date: 2026-09-07T18:52:37.365Z
+tags: dealership, nd, script, vehicles
 editor: markdown
 dateCreated: 2026-09-07T18:43:02.682Z
 ---
 
-# ND_Dealership
+# ND_Dealership [![](https://badges.5metrics.dev/ND_Dealership/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Dealership)
 
 ND_Dealership provides vehicle dealerships for ND Framework.
 
