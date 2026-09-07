@@ -2,13 +2,13 @@
 title: esx_menu_default
 description: esx_menu_default provides the default list-style menu used by ESX Legacy resources.
 published: true
-date: 2026-09-07T23:34:01.519Z
+date: 2026-09-07T23:39:29.911Z
 tags: esx, menus, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:01.519Z
 ---
 
-# esx_menu_default
+# esx_menu_default [![](https://badges.5metrics.dev/esx_menu_default/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_menu_default)
 
 `esx_menu_default` provides the default list-style menu used by ESX Legacy resources.
 
