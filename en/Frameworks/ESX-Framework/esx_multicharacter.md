@@ -2,13 +2,13 @@
 title: esx_multicharacter
 description: esx_multicharacter allows ESX Legacy players to create and use multiple characters.
 published: true
-date: 2026-09-07T23:40:50.580Z
+date: 2026-09-07T23:43:52.645Z
 tags: characters, esx, multicharacter, script
 editor: markdown
 dateCreated: 2026-09-07T23:40:50.580Z
 ---
 
-# esx_multicharacter
+# esx_multicharacter [![](https://badges.5metrics.dev/esx_multicharacter/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_multicharacter)
 
 `esx_multicharacter` allows ESX Legacy players to create and use multiple characters.
 
