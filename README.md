@@ -23,10 +23,10 @@ Use Wiki.js Markdown.
 Keep paths simple:
 
 ```text
-/Scripts/ox_lib
-/Scripts/ox_inventory
-/EUP/example-pack
-/Vehicles/example-pack
+/Scripts/Libraries/ox_lib
+/Scripts/Inventory/ox_inventory
+/EUP/Developer-Name/Type/Name
+/Vehicles/Developer-Name/Type/Name
 ```
 
 Use tags for framework, price, creator, source, and features.
