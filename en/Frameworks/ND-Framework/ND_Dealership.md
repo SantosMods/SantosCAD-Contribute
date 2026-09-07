@@ -2,7 +2,7 @@
 title: ND_Dealership
 description: ND_Dealership provides vehicle dealerships for ND Framework.
 published: true
-date: 2026-09-07T18:43:02.682Z
+date: 2026-09-07T18:43:04.429Z
 tags: nd, script, vehicles, dealership
 editor: markdown
 dateCreated: 2026-09-07T18:43:02.682Z
