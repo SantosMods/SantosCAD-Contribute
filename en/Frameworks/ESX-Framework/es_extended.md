@@ -2,13 +2,13 @@
 title: es_extended
 description: es_extended is the main core resource for ESX Framework.
 published: true
-date: 2026-09-07T21:37:08.904Z
-tags: core, framework, roleplay, esx
+date: 2026-09-07T23:38:18.285Z
+tags: core, esx, framework, roleplay
 editor: markdown
 dateCreated: 2026-09-07T21:37:08.904Z
 ---
 
-# es_extended
+# es_extended [![](https://badges.5metrics.dev/es_extended/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/es_extended)
 
 `es_extended` is the main core resource for ESX Framework.
 
