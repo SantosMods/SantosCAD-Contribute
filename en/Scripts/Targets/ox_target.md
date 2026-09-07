@@ -2,13 +2,13 @@
 title: ox_target
 description: A standalone FiveM targeting resource for interacting with entities, zones, vehicles, players, and the game world.
 published: true
-date: 2026-09-07T06:11:11.265Z
+date: 2026-09-07T19:09:21.525Z
 tags: free, overextended, script, target
 editor: markdown
 dateCreated: 2026-09-07T05:03:23.005Z
 ---
 
-# ox_target
+# ox_target [![](https://badges.5metrics.dev/ox_target/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_target)
 
 A standalone FiveM targeting resource for interacting with entities, zones, vehicles, players, and the game world.
 
