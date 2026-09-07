@@ -2,13 +2,14 @@
 title: ox_fuel
 description: A FiveM fuel resource designed as an alternative to LegacyFuel and as an example of using petrol cans as inventory items.
 published: true
-date: 2026-09-07T06:08:58.576Z
-tags: free, overextended, script, fuel
+date: 2026-09-07T19:07:56.751Z
+tags: free, fuel, overextended, script
 editor: markdown
 dateCreated: 2026-09-07T05:02:32.445Z
 ---
 
-# ox_fuel
+# ox_fuel [![](https://badges.5metrics.dev/ox_fuel/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_fuel)
+
 
 A FiveM fuel resource designed as an alternative to LegacyFuel and as an example of using petrol cans as inventory items.
 
