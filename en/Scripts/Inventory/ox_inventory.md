@@ -2,13 +2,13 @@
 title: ox_inventory
 description: An inventory system for FiveM.
 published: true
-date: 2026-09-07T06:10:20.281Z
-tags: free, overextended, script, inventory
+date: 2026-09-07T19:08:17.740Z
+tags: free, inventory, overextended, script
 editor: markdown
 dateCreated: 2026-09-07T03:54:06.881Z
 ---
 
-# ox_inventory
+# ox_inventory [![](https://badges.5metrics.dev/ox_inventory/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ox_inventory)
 
 A slot-based FiveM inventory system with item metadata, shops, stashes, crafting, weapons, and vehicle storage.
 
