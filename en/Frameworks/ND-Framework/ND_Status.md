@@ -2,13 +2,13 @@
 title: ND_Status
 description: ND_Status provides configurable player status systems for ND Core.
 published: true
-date: 2026-09-07T18:40:28.357Z
-tags: nd, script, status, hud
+date: 2026-09-07T18:53:38.729Z
+tags: hud, nd, script, status
 editor: markdown
 dateCreated: 2026-09-07T18:40:26.119Z
 ---
 
-# ND_Status
+# ND_Status [![](https://badges.5metrics.dev/ND_Status/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/ND_Status)
 
 ND_Status provides configurable player status systems for ND Core.
 
