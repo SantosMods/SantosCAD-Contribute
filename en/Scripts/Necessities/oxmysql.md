@@ -2,13 +2,13 @@
 title: oxmysql
 description: A FiveM database resource for communicating with MySQL-compatible databases through node-mysql2.
 published: true
-date: 2026-09-07T06:10:41.171Z
-tags: free, library, overextended, database
+date: 2026-09-07T19:09:00.534Z
+tags: database, free, library, overextended
 editor: markdown
 dateCreated: 2026-09-07T05:04:50.394Z
 ---
 
-# oxmysql
+# oxmysql [![](https://badges.5metrics.dev/oxmysql/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/oxmysql)
 
 A FiveM database resource for communicating with MySQL-compatible databases through `node-mysql2`.
 
