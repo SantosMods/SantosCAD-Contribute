@@ -2,13 +2,13 @@
 title: esx_progressbar
 description: esx_progressbar provides an NUI progress bar for ESX resources.
 published: true
-date: 2026-09-07T23:42:24.824Z
-tags: esx, script, ui, progressbar
+date: 2026-09-07T23:44:18.911Z
+tags: esx, progressbar, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:42:24.824Z
 ---
 
-# esx_progressbar
+# esx_progressbar [![](https://badges.5metrics.dev/esx_progressbar/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_progressbar)
 
 `esx_progressbar` provides an NUI progress bar for ESX resources.
 
