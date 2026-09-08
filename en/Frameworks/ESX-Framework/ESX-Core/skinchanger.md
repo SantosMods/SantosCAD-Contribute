@@ -2,13 +2,13 @@
 title: skinchanger
 description: skinchanger manages player models, clothing, accessories, and appearance components for ESX Legacy.
 published: true
-date: 2026-09-08T00:30:32.783Z
+date: 2026-09-08T00:31:07.851Z
 tags: appearance, characters, esx, script
 editor: markdown
 dateCreated: 2026-09-08T00:30:32.783Z
 ---
 
-# skinchanger
+# skinchanger [![](https://badges.5metrics.dev/skinchanger/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/skinchanger)
 
 `skinchanger` manages player models, clothing, accessories, and appearance components for ESX Legacy.
 
