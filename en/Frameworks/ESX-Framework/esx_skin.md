@@ -2,7 +2,7 @@
 title: esx_skin
 description: esx_skin provides character appearance customization and skin saving for ESX Legacy.
 published: true
-date: 2026-09-07T23:44:30.840Z
+date: 2026-09-08T00:26:05.051Z
 tags: appearance, characters, esx, script
 editor: markdown
 dateCreated: 2026-09-07T23:43:04.901Z
