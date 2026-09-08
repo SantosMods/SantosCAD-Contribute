@@ -2,7 +2,7 @@
 title: esx_menu_default
 description: esx_menu_default provides the default list-style menu used by ESX Legacy resources.
 published: true
-date: 2026-09-07T23:39:29.911Z
+date: 2026-09-08T00:24:39.655Z
 tags: esx, menus, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:01.519Z
