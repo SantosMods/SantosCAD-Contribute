@@ -2,7 +2,7 @@
 title: esx_menu_dialog
 description: esx_menu_dialog provides an input dialog used by ESX Legacy resources.
 published: true
-date: 2026-09-07T23:39:45.192Z
+date: 2026-09-08T00:24:58.445Z
 tags: esx, input, script, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:51.978Z
