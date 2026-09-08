@@ -2,13 +2,13 @@
 title: esx_textui
 description: esx_textui provides the persistent text UI used by ESX Legacy resources.
 published: true
-date: 2026-09-08T00:29:43.731Z
-tags: esx, script, ui, text-ui
+date: 2026-09-08T00:30:54.835Z
+tags: esx, script, text-ui, ui
 editor: markdown
 dateCreated: 2026-09-08T00:29:43.731Z
 ---
 
-# esx_textui
+# esx_textui [![](https://badges.5metrics.dev/esx_textui/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_textui)
 
 `esx_textui` provides the persistent text UI used by ESX Legacy resources.
 
