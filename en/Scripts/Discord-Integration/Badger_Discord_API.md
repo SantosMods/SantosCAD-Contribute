@@ -2,7 +2,7 @@
 title: Badger_Discord_API
 description: Badger_Discord_API provides Discord API functionality for FiveM resources.
 published: true
-date: 2026-09-09T00:14:34.720Z
+date: 2026-09-09T00:14:36.599Z
 tags: developer-tool, discord, script, api
 editor: markdown
 dateCreated: 2026-09-09T00:14:34.720Z

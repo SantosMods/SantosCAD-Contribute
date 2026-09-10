@@ -2,8 +2,8 @@
 title: esx_notify
 description: esx_notify provides the notification system used by ESX resources.
 published: true
-date: 2026-09-08T00:25:27.309Z
-tags: esx, notifications, script, ui
+date: 2026-09-08T00:25:29.186Z
+tags: esx, script, ui, notifications
 editor: markdown
 dateCreated: 2026-09-07T23:41:35.633Z
 ---

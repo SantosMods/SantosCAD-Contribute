@@ -2,8 +2,8 @@
 title: esx_textui
 description: esx_textui provides the persistent text UI used by ESX Legacy resources.
 published: true
-date: 2026-09-08T00:30:54.835Z
-tags: esx, script, text-ui, ui
+date: 2026-09-08T00:30:56.406Z
+tags: esx, script, ui, text-ui
 editor: markdown
 dateCreated: 2026-09-08T00:29:43.731Z
 ---

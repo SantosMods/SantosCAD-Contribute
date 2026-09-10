@@ -2,8 +2,8 @@
 title: ox_lib
 description: A standalone library for providing easily reusable code as importable modules and exports.
 published: true
-date: 2026-09-07T19:08:38.397Z
-tags: developer-tool, free, library, overextended
+date: 2026-09-08T00:21:48.597Z
+tags: library, developer-tool, free, overextended
 editor: markdown
 dateCreated: 2026-09-07T04:12:41.850Z
 ---

@@ -2,8 +2,8 @@
 title: ND_Status
 description: ND_Status provides configurable player status systems for ND Core.
 published: true
-date: 2026-09-07T18:53:38.729Z
-tags: hud, nd, script, status
+date: 2026-09-08T00:21:40.055Z
+tags: nd, script, status, hud
 editor: markdown
 dateCreated: 2026-09-07T18:40:26.119Z
 ---

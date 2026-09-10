@@ -2,7 +2,7 @@
 title: esx_property
 description: esx_property provides configurable player properties and housing for ESX Legacy.
 published: true
-date: 2026-09-09T20:22:32.750Z
+date: 2026-09-09T20:22:34.915Z
 tags: esx, script, housing, property
 editor: markdown
 dateCreated: 2026-09-09T20:22:32.750Z

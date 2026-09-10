@@ -2,7 +2,7 @@
 title: DiscordChatRoles
 description: DiscordChatRoles adds Discord role-based tags and permissions to FiveM chat.
 published: true
-date: 2026-09-09T00:11:30.658Z
+date: 2026-09-09T00:11:33.006Z
 tags: script, discord, chat, roles
 editor: markdown
 dateCreated: 2026-09-09T00:11:30.658Z

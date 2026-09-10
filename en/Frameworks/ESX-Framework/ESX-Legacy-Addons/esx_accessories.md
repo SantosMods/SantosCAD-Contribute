@@ -2,7 +2,7 @@
 title: esx_accessories
 description: esx_accessories adds accessory shops and accessory management to ESX Legacy.
 published: true
-date: 2026-09-09T20:19:22.980Z
+date: 2026-09-09T20:19:24.543Z
 tags: clothing, esx, script, accessories
 editor: markdown
 dateCreated: 2026-09-09T20:19:22.980Z

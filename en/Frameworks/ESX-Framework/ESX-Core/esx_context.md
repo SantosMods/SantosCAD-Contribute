@@ -2,8 +2,8 @@
 title: esx_context
 description: esx_context provides the context menu system used by es_extended.
 published: true
-date: 2026-09-08T00:23:59.709Z
-tags: esx, menus, script, ui
+date: 2026-09-08T00:24:01.801Z
+tags: esx, script, ui, menus
 editor: markdown
 dateCreated: 2026-09-07T23:31:34.639Z
 ---

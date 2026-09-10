@@ -2,8 +2,8 @@
 title: ND_MDT
 description: ND_MDT is a police mobile data terminal for ND_Core.
 published: true
-date: 2026-09-07T18:51:07.139Z
-tags: mdt, nd, police, script
+date: 2026-09-08T00:21:35.143Z
+tags: nd, police, script, mdt
 editor: markdown
 dateCreated: 2026-09-07T06:23:01.248Z
 ---

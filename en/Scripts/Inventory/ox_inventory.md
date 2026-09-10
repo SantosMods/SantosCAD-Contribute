@@ -2,8 +2,8 @@
 title: ox_inventory
 description: An inventory system for FiveM.
 published: true
-date: 2026-09-07T19:08:17.740Z
-tags: free, inventory, overextended, script
+date: 2026-09-08T00:21:46.802Z
+tags: free, overextended, script, inventory
 editor: markdown
 dateCreated: 2026-09-07T03:54:06.881Z
 ---

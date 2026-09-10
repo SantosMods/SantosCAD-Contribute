@@ -2,8 +2,8 @@
 title: ND_Core
 description: ND_Core is the core resource for ND Framework.
 published: true
-date: 2026-09-07T18:48:55.567Z
-tags: core, developer-tool, framework, nd
+date: 2026-09-08T00:21:26.064Z
+tags: developer-tool, framework, nd, core
 editor: markdown
 dateCreated: 2026-09-07T06:19:06.707Z
 ---

@@ -2,8 +2,8 @@
 title: esx_identity
 description: esx_identity handles identity registration for ESX characters.
 published: true
-date: 2026-09-09T00:16:15.452Z
-tags: characters, esx, identity, script
+date: 2026-09-09T00:16:16.952Z
+tags: characters, esx, script, identity
 editor: markdown
 dateCreated: 2026-09-07T23:32:58.420Z
 ---

@@ -2,8 +2,8 @@
 title: ox_doorlock
 description: A door management resource that can be used standalone or alongside ox_core, qbx_core, and es_extended.
 published: true
-date: 2026-09-07T19:05:53.688Z
-tags: doorlock, free, overextended, script
+date: 2026-09-08T00:21:43.267Z
+tags: free, overextended, script, doorlock
 editor: markdown
 dateCreated: 2026-09-07T05:01:07.714Z
 ---

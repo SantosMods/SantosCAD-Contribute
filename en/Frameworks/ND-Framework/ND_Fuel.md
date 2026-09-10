@@ -2,7 +2,7 @@
 title: ND_Fuel
 description: ND_Fuel is a vehicle fuel system for FiveM.
 published: true
-date: 2026-09-07T18:49:36.544Z
+date: 2026-09-08T00:21:29.566Z
 tags: fuel, nd, script, vehicles
 editor: markdown
 dateCreated: 2026-09-07T06:24:57.284Z

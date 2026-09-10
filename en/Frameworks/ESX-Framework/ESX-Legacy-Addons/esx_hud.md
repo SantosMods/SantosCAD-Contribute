@@ -2,7 +2,7 @@
 title: esx_hud
 description: esx_hud provides a configurable player and vehicle HUD for ESX Legacy.
 published: true
-date: 2026-09-09T20:21:02.918Z
+date: 2026-09-09T20:21:04.678Z
 tags: esx, hud, script, ui
 editor: markdown
 dateCreated: 2026-09-09T20:21:02.918Z

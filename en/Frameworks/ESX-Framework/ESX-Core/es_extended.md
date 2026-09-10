@@ -2,8 +2,8 @@
 title: es_extended
 description: es_extended is the main core resource for ESX Framework.
 published: true
-date: 2026-09-08T00:26:18.610Z
-tags: core, esx, framework, roleplay
+date: 2026-09-08T00:26:20.385Z
+tags: core, framework, roleplay, esx
 editor: markdown
 dateCreated: 2026-09-07T21:37:08.904Z
 ---

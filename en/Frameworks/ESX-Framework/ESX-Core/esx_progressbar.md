@@ -2,8 +2,8 @@
 title: esx_progressbar
 description: esx_progressbar provides an NUI progress bar for ESX resources.
 published: true
-date: 2026-09-08T00:25:44.143Z
-tags: esx, progressbar, script, ui
+date: 2026-09-08T00:25:46.210Z
+tags: esx, script, ui, progressbar
 editor: markdown
 dateCreated: 2026-09-07T23:42:24.824Z
 ---

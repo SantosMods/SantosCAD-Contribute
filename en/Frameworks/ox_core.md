@@ -2,8 +2,8 @@
 title: ox_core
 description: A modern FiveM framework, designed to properly support features like OneSync, statebags, and server-side entities.
 published: true
-date: 2026-09-07T19:09:39.764Z
-tags: framework, free, overextended, roleplay
+date: 2026-09-08T00:21:06.613Z
+tags: free, overextended, framework, roleplay
 editor: markdown
 dateCreated: 2026-09-07T04:57:04.536Z
 ---

@@ -2,8 +2,8 @@
 title: ND_GunAnims
 description: ND_GunAnims is a configurable weapon animation system for FiveM.
 published: true
-date: 2026-09-07T18:47:56.381Z
-tags: animations, nd, script, weapons
+date: 2026-09-08T00:21:31.421Z
+tags: nd, script, weapons, animations
 editor: markdown
 dateCreated: 2026-09-07T06:21:13.764Z
 ---

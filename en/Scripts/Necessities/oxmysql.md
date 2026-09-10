@@ -2,8 +2,8 @@
 title: oxmysql
 description: A FiveM database resource for communicating with MySQL-compatible databases through node-mysql2.
 published: true
-date: 2026-09-07T19:09:00.534Z
-tags: database, free, library, overextended
+date: 2026-09-08T00:21:50.556Z
+tags: free, library, overextended, database
 editor: markdown
 dateCreated: 2026-09-07T05:04:50.394Z
 ---
