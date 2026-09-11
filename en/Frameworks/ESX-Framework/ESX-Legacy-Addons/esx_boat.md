@@ -2,8 +2,8 @@
 title: esx_boat
 description: ESX resource that adds boat shops and boat garages and integrates with esx_vehicleshop.
 published: true
-date: 2026-09-11T20:31:41.578Z
-tags: esx, script, boats, vehicle-shop
+date: 2026-09-11T20:38:07.187Z
+tags: boats, esx, script, vehicle-shop
 editor: markdown
 dateCreated: 2026-09-11T20:31:41.578Z
 ---
