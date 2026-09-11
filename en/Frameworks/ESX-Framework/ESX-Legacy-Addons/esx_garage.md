@@ -2,8 +2,8 @@
 title: esx_garage
 description: esx_garage provides vehicle garages and impounds for ESX Legacy.
 published: true
-date: 2026-09-09T20:21:59.308Z
-tags: esx, script, vehicles, garage
+date: 2026-09-11T20:38:19.061Z
+tags: esx, garage, script, vehicles
 editor: markdown
 dateCreated: 2026-09-09T20:21:57.343Z
 ---
