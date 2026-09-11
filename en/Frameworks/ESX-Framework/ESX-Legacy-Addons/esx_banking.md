@@ -2,8 +2,8 @@
 title: esx_banking
 description: ESX banking and ATM resource with configurable banks, peds, transaction logging, and a web-based interface.
 published: true
-date: 2026-09-11T20:29:02.264Z
-tags: esx, script, banking, atm
+date: 2026-09-11T20:37:27.392Z
+tags: atm, banking, esx, script
 editor: markdown
 dateCreated: 2026-09-11T20:29:02.264Z
 ---
