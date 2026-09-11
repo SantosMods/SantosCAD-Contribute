@@ -2,8 +2,8 @@
 title: esx_billing
 description: ESX billing resource that lets jobs send player invoices and provides a menu for viewing and paying bills.
 published: true
-date: 2026-09-11T20:31:04.793Z
-tags: esx, jobs, script, billing
+date: 2026-09-11T20:37:38.329Z
+tags: billing, esx, jobs, script
 editor: markdown
 dateCreated: 2026-09-11T20:31:04.793Z
 ---
