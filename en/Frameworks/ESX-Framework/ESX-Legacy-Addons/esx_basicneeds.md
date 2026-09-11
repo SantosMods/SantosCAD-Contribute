@@ -2,8 +2,8 @@
 title: esx_basicneeds
 description: ESX hunger and thirst resource that uses esx_status and supports configurable food and drink items.
 published: true
-date: 2026-09-11T20:30:19.698Z
-tags: esx, script, status, needs
+date: 2026-09-11T20:39:32.358Z
+tags: esx, needs, script, status
 editor: markdown
 dateCreated: 2026-09-11T20:30:19.698Z
 ---
