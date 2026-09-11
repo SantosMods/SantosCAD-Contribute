@@ -2,8 +2,8 @@
 title: esx_animations
 description: Lightweight ESX script that lets players select and play configured FiveM animations.
 published: true
-date: 2026-09-10T03:32:05.252Z
-tags: animations, esx, script, animation-menu
+date: 2026-09-11T20:36:46.547Z
+tags: animation-menu, animations, esx, script
 editor: markdown
 dateCreated: 2026-09-10T03:32:05.252Z
 ---
