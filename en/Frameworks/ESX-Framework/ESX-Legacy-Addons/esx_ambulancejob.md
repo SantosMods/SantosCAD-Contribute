@@ -2,8 +2,8 @@
 title: esx_ambulancejob
 description: ESX EMS job resource with death handling, reviving, vehicle garages, and on-duty ambulance features.
 published: true
-date: 2026-09-10T03:29:14.811Z
-tags: ems, esx, script, revive
+date: 2026-09-11T20:35:17.354Z
+tags: ems, esx, revive, script
 editor: markdown
 dateCreated: 2026-09-10T03:29:14.811Z
 ---
