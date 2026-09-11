@@ -2,8 +2,8 @@
 title: esx_policejob
 description: ESX police job with armories, vehicle garages, searching, handcuffing, and configurable police management features.
 published: true
-date: 2026-09-10T03:31:16.521Z
-tags: esx, police, script, law-enforcement
+date: 2026-09-11T20:34:37.907Z
+tags: esx, law-enforcement, police, script
 editor: markdown
 dateCreated: 2026-09-10T03:31:16.521Z
 ---
