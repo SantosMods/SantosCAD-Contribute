@@ -2,7 +2,7 @@
 title: esx_shops
 description: esx_shops provides configurable item shops for ESX Legacy.
 published: true
-date: 2026-09-08T00:51:23.335Z
+date: 2026-09-11T20:37:54.799Z
 tags: esx, inventory, script, shops
 editor: markdown
 dateCreated: 2026-09-08T00:51:21.685Z
