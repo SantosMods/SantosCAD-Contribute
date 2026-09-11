@@ -2,8 +2,8 @@
 title: esx_mechanicjob
 description: ESX mechanic job for repairing and modifying vehicles, with billing, boss actions, and mechanic job interactions.
 published: true
-date: 2026-09-10T03:30:38.334Z
-tags: esx, script, mechanic, vehicle-repair
+date: 2026-09-11T20:35:00.672Z
+tags: esx, mechanic, script, vehicle-repair
 editor: markdown
 dateCreated: 2026-09-10T03:30:38.334Z
 ---
