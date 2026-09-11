@@ -2,7 +2,7 @@
 title: esx_weaponshop
 description: esx_weaponshop provides configurable weapon shops for ESX Legacy.
 published: true
-date: 2026-09-08T00:52:31.754Z
+date: 2026-09-11T20:38:58.083Z
 tags: esx, script, shops, weapons
 editor: markdown
 dateCreated: 2026-09-08T00:52:30.197Z
