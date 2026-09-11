@@ -2,8 +2,8 @@
 title: esx_barbershop
 description: ESX barbershop resource that uses esx_skin to let players pay to change hair and beard styles.
 published: true
-date: 2026-09-11T20:29:43.116Z
-tags: esx, script, character-customization, barbershop
+date: 2026-09-11T20:36:58.086Z
+tags: barbershop, character-customization, esx, script
 editor: markdown
 dateCreated: 2026-09-11T20:29:43.116Z
 ---
