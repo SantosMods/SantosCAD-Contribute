@@ -2,7 +2,7 @@
 title: esx_vehicleshop
 description: esx_vehicleshop provides vehicle purchasing and dealership systems for ESX Legacy.
 published: true
-date: 2026-09-08T00:54:24.192Z
+date: 2026-09-11T20:38:32.745Z
 tags: dealership, esx, script, vehicles
 editor: markdown
 dateCreated: 2026-09-08T00:54:22.509Z
